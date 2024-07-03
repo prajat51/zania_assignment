@@ -12,7 +12,7 @@ slack_sdk: To interact with the Slack API.
 pip install openai pymupdf slack_sdk\
 2 Set the environment variables for your Slack API token and OpenAI API key:\
 export SLACK_TOKEN='your-slack-token'\
-export OPENAI_API_KEY='your-openai-api-key'\
+export OPENAI_API_KEY='your-openai-api-key'
 
 # Usage:
 Update the pdf_path variable with the path to your PDF document.\
