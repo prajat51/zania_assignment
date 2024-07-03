@@ -17,4 +17,8 @@ export OPENAI_API_KEY='your-openai-api-key'
 # Usage:
 Update the pdf_path variable with the path to your PDF document.\
 Update the channel variable with the Slack channel where you want to post the answers.\
-Add your questions to the questions list.
+Add your questions to the questions list.\
+python script_name.py
+
+#This script will extract the text from the specified PDF, query OpenAI to answer the listed questions, and post the answers to the specified Slack channel.
+
