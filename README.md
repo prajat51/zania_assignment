@@ -20,5 +20,5 @@ Update the channel variable with the Slack channel where you want to post the an
 Add your questions to the questions list.\
 python script_name.py
 
-#This script will extract the text from the specified PDF, query OpenAI to answer the listed questions, and post the answers to the specified Slack channel.
+# This script will extract the text from the specified PDF, query OpenAI to answer the listed questions, and post the answers to the specified Slack channel.
 
