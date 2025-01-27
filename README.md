@@ -1,4 +1,4 @@
-# Questin Answering Agent
+
 # PDF Question Answering Agent
 This script extracts text from a PDF document, uses OpenAI's GPT-3.5-turbo-0125 model to answer specific questions based on the content, and posts the answers to a Slack channel.
 
